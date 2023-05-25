@@ -1,4 +1,4 @@
-# Fast Chat API
+# Fast API BlenderBot Chat
 
 This is a simple chat bot implementation. Data is from the public Blender chatbot dataset. The model is a GPT-2 model fine-tuned on the Blender dataset. The model is served using the FastAPI framework.
 
